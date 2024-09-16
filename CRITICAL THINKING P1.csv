@@ -1,0 +1,16 @@
+    Serial no.,,Product Name,,    Product ID/Model,,,Date of failure,,   Location of Failure ,,,  Reported by,,  Failure Mode,
+1,,             Phone,,                 Model A123,,,         2024-09-10,,                         Mumbai,          ,,           John Doe,,     battery failure,
+2,,             laptop,,                  Model B456,,,         2024-09-11,,,    Delhi,,          jane smith,,      over heating,
+ FAILURE ANALYSIS:,,,,,,,,,,,,,,,
+    Serial No.,, Route cause ,,    Analysis Method,,,  Component Failed,,,Possible contributing factors ,,,,Failure Severity(_HIgh/medium/low),
+1,,Manufacture Defect,,              visual inception,,,                         battery,,,,     supplier issue,,,,                 High
+2,,poor ventilation design,,              thermal testing,,,,processor,,                   Environmental condition,,,,,             Medium
+CORRECTIVE ACTIONS:,,,,,,,,,,,,,,,
+    Serial No.,,Corrective action,,,Action Owner,,   Implementation Date,,,          Status(Progress/complete),,,,,
+1,,      Replace faculty,,,        Johndoe,,                     2024-09-20,,,,              Complete,,,,
+2,,    Redesign cooling,,,       Jane smith,,                     2024-09-30,,,,              In-progress,,,,
+,,,,,,,,,,,,,,,
+                                                                           ADDITIONAL NOTES :,,,,,,,,,,,,,,,
+,,,,,,,     Serial No.,,,                    Notes/Obsevation,,,,,
+,,,,,,,1,,,,Battery overheating under high temperature,Battery over heating under high temperatute ,,,
+,,,,,,,2,,,,ventilation issue found during long period of usage ,,,,
